@@ -1,2 +1,2 @@
 # GAN-Project
-MY Thesis
+MY Thesis of BS 
